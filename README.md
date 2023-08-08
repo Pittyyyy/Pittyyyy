@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Pittaya Prangrat
 ========================================================================================================================================
 
-student full-stack development
+I am currently studying to become a full-stack developer.
 ------------------------------
 
 ![giphy](https://github.com/Pittyyyy/Pittyyyy/assets/99324205/edfea2ed-6797-420a-ae16-0c365136f3cf)
